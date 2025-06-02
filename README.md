@@ -20,8 +20,4 @@ This analysis uses two main tables:
 - `CovidDeaths`: Contains daily records of total cases and deaths by country.
 - `CovidVaccinations`: Contains vaccination data by date and location.
 
-## 🔍 Key SQL Queries & Insights
 
-### 1. View All Columns
-```sql
-SELECT * FROM COVID19.dbo.CovidDeaths
